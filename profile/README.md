@@ -6,6 +6,6 @@ At codrion, we're not just about tech, we're about making a REAL difference! �
 
 Are you ready to jump onboard this incredible journey with us? 🌈 Just take a moment to fill out the following [form](https://forms.gle/HMGbnQihmUyWj3A39), and you'll be one step closer to joining our dynamic, energetic and super awesome team! 🤩 Let's do this together! 💫
 
-- [check our website](https://codrion.vercel.app) <br>
+- [check our website](https://codrion.tech) <br>
 - [apply as an intern/volunteer/contributor](https://forms.gle/HMGbnQihmUyWj3A39) <br>
-- [support us](https://codrion.vercel.app) <br>
+- [support us](mailto:outreach@codrion.tech) <br>
