@@ -1,4 +1,4 @@
-### Build the future 🔨
+### Building products for the community 🔨
 
-- [learn more](https://codrion.tech) <br>
-- [join the community](https://discord.gg/vpaKPQh3NH)
+- [learn more](https://43labs.xyz) <br>
+- [join the community](https://discord.gg/Rh4cu24JRS)
